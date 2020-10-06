@@ -1,0 +1,2 @@
+# ElectricityConsumption_Prediction
+Analysis of electricity consumption prediction
